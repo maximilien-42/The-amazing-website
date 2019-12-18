@@ -1,0 +1,15 @@
+.banner {
+	background-image: url(../../images/PUG.jpg);
+	background-size: cover;
+	background-position: center;
+	padding-top: 90px;
+	padding-bottom: 600px;
+}
+.banner h1 {
+	font-size: 77px;
+	font-weight: 800;
+}
+.banner h3 {
+	font-weight: lighter;
+	font-size: 27px;
+}

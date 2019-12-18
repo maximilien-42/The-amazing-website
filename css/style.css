@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Slabo+27px|Source+Sans+Pro|Zilla+Slab&display=swap");
+@import url("compoments/avatar.css");
+@import url("compoments/container.css");
+@import url("compoments/button.css");
+@import url("compoments/banner.css");
+
+
+/*General styl rules for fonts and colors*/
+ul {
+	background: pink;
+}
+h1, h2, h3 {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 800;
+}
+body {
+	font-family: 'Slabo 27px', serif;
+	font-size: 20px;
+    margin: 0px;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: black;
+}
+body {
+	background-color: #f1f1f1
+}
